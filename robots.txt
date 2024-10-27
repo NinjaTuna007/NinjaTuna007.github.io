@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ninjatuna007.github.io/al-folio/sitemap.xml
+Sitemap: https://ninjatuna007.github.io/sitemap.xml
