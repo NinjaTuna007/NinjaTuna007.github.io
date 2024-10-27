@@ -1,39 +1,57 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shekhar Devm Upadhyay",
+    "label": "Machine Learning Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sdup@kth.se",
+    "phone": "",
+    "url": "https://ninjatuna007.github.io/",
+    "summary": "A passionate young researcher with a strong background in machine learning, mathematics and theoretical physics, and a proven track record of academic excellence.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Lindstedtsvägen 24",
+      "postalCode": "SE 100 44",
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": "Stockholm County"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "sdupadhyay",
+        "url": "https://www.linkedin.com/in/sdupadhyay"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Ericsson AB",
+      "position": "Master Thesis Student",
+      "url": "https://ericsson.com",
+      "startDate": "2024-01-16",
+      "endDate": "2024-07-31",
+      "summary": "Developed and deployed multi-modal deep learning algorithms for anomaly detection and fault verdict prediction in Telecom Networks, using software logs and multi-variate time series, comparing against unimodal baselines.",
+      "highlights": ["Multi-modal Deep Learning", "Anomaly Detection", "Fault Verdict Prediction", "Telecom Networks"]
+    },
+    {
+      "name": "SEB (Skandinaviska Enskilda Banken) AB",
+      "position": "Machine Learning Intern",
+      "url": "https://kth.se",
+      "startDate": "2023-06-12",
+      "endDate": "2024-12-21",
+      "summary": "Worked as a machine learning intern in the Advanced Analytics group at SEB, where I developed an adversarial machine learning model for Extractive Question Answering and built a RAG model for the same.",
+      "highlights": ["RAG model", "Adversarial Machine Learning"]
+    },
+    {
+      "name": "KTH Royal Institute of Technology",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://kth.se",
+      "startDate": "2022-09-01",
+      "endDate": "2023-09-30",
+      "summary": "Led tutorials, graded presentations, and facilitated learning in DD2380 Artificial Intelligence, enhancing my expertise in AI and mentoring skills.",
+      "highlights": ["DD2380 Artificial Intelligence", "Mentoring"]
     }
   ],
-  "volunteer": [
+  "_volunteer": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -47,27 +65,49 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "url": "https://www.kth.se/",
+      "area": "Underwater Robotics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-10-01",
+      "endDate": "Ongoing",
+      "score": "",
+      "courses": ["Applied Estimation"]
+    },
+    {
+      "institution": "KTH Royal Institute of Technology",
+      "location": "Stockholm, Sweden",
+      "url": "https://www.kth.se/",
+      "area": "Machine Learning",
+      "studyType": "Master of Science",
+      "startDate": "2022-09-01",
+      "endDate": "2024-06-30",
+      "score": "4.75/5.0",
+      "courses": ["Artificial Intelligence", "Foundations of Machine Learning", "Introduction to the Philosophy of Science and Research Methodology", "Machine Learning, Advanced Course", "Regression Analysis", "Artificial Intelligence and Multi Agent Systems", "Deep Learning in Data Science", "Music Informatics", "Intercultural Competence", "Project Course in Data Science", "Global Competence", "Statistical Methods in Applied Computer Science"]
+    },
+    {
+      "institution": "Indian Institute of Science (IISc)",
+      "location": "Bangalore, India",
+      "url": "https://www.iisc.ac.in/",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science (Research)",
+      "startDate": "2018-08-01",
+      "endDate": "2022-07-30",
+      "score": "9.3/10",
+      "courses": ["Linear Algebra", "Calculus", "Probability Theory", "Statistics", "Optimization", "Numerical Analysis", "Algebra", "Calculus on Manifolds", "Measure Theory", "Real Analysis", "Complex Analysis", "Functional Analysis", "Differential Equations", "Topology", "Number Theory"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Tech Talent of the Year",
+      "date": "2023-02-15",
+      "awarder": "SEB AB (in collaboration with Universum)",
+      "url": "https://sebgroup.com/press/news/2023/kth-student-named-tech-talent-of-the-year",
+      "summary": "Named Tech Talent of the Year 2023 by SEB and Universum for showcasing data analysis skills in a data analysis project identifying viable investments for SEB Greentech Venture Capital."
     }
   ],
-  "certificates": [
+  "_certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -111,7 +151,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -136,28 +176,61 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Deep Learning",
+        "Reinforcement Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Time Series Analysis",
+        "Anomaly Detection",
+        "Fault Verdict Prediction"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "level": "Master",
+      "icon": "fa-solid fa-calculator",
+      "keywords": [
+        "Linear Algebra",
+        "Calculus",
+        "Probability Theory",
+        "Statistics",
+        "Optimization",
+        "Numerical Analysis"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-calendar",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Lean",
+        "Waterfall",
+        "PRINCE2",
+        "PMBOK"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native/Bilingual proficiency",
+      "icon": ""
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Limited working proficiency (A2)",
       "icon": ""
     }
   ],
@@ -166,16 +239,13 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Olympiad Physics", 
+        "Simulations", 
+        "Fluid Dynamics"
       ]
     }
   ],
-  "references": [
+  "_references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -187,7 +257,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
